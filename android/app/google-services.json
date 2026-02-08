@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855278003893",
+    "project_id": "pixelme-b898e",
+    "storage_bucket": "pixelme-b898e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855278003893:android:78fb0411b19d81fd8f00fc",
+        "android_client_info": {
+          "package_name": "com.pixlme.tv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vPkNZ9oGG1QRcFFswKtyORRe0mhu2_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855278003893:android:1407ee3382bd95fc8f00fc",
+        "android_client_info": {
+          "package_name": "com.pixlme.tv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vPkNZ9oGG1QRcFFswKtyORRe0mhu2_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
